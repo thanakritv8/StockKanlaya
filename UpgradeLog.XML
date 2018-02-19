@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Solution">
+</Property><Property Name="Solution File" Value="D:\Share\Demo\Solution\Solution.sln">
+</Property><Property Name="Date" Value="Wednesday, September 27, 2017">
+</Property><Property Name="Time" Value="15:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="PL" Source="PL\PL.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PL" Source="PL\PL.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Utility" Source="Utility\Utility.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Utility" Source="Utility\Utility.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Solution.sln" Description="Converted">
+</Event></UpgradeLog>

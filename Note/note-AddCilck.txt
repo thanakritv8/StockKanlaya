@@ -1,0 +1,4 @@
+ DGV.Columns(2).ReadOnly = False
+            For i As Integer = 3 To 7
+                DGV.Columns(i).ReadOnly = True
+            Next

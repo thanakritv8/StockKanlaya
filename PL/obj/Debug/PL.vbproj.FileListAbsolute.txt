@@ -1,0 +1,1166 @@
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\PL.exe
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\PL.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\PL.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\BLL.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\Utility.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\BLL.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\bin\Debug\Utility.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.exe
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\Solution\PL\obj\Debug\PL.Form1.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\BLL.dll
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\Utility.dll
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\BLL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\bin\Debug\Utility.xml
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Ove_stock.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Solution\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\BLL.dll
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\Utility.dll
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\BLL.xml
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\Utility.xml
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Ove_stock.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\1Hz_NB\Downloads\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\DAL.dll
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\1Hz_NB\Downloads\Solution\PL\bin\Debug\DAL.xml
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.exe
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.xml
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.pdb
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\PL.exe
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\PL.pdb
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\PL.xml
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\BLL.dll
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\Utility.dll
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\DAL.dll
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\BLL.xml
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\Utility.xml
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\150229\Downloads\Solution\Solution\PL\bin\Debug\DAL.xml
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Job\Solution\PL\obj\Debug\PL.exe
+C:\Job\Solution\PL\obj\Debug\PL.xml
+C:\Job\Solution\PL\obj\Debug\PL.pdb
+C:\Job\Solution\PL\bin\Debug\PL.exe
+C:\Job\Solution\PL\bin\Debug\PL.pdb
+C:\Job\Solution\PL\bin\Debug\PL.xml
+C:\Job\Solution\PL\bin\Debug\BLL.dll
+C:\Job\Solution\PL\bin\Debug\TabStrip.dll
+C:\Job\Solution\PL\bin\Debug\Utility.dll
+C:\Job\Solution\PL\bin\Debug\DAL.dll
+C:\Job\Solution\PL\bin\Debug\BLL.pdb
+C:\Job\Solution\PL\bin\Debug\BLL.xml
+C:\Job\Solution\PL\bin\Debug\Utility.pdb
+C:\Job\Solution\PL\bin\Debug\Utility.xml
+C:\Job\Solution\PL\bin\Debug\DAL.pdb
+C:\Job\Solution\PL\bin\Debug\DAL.xml
+C:\Job\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Job\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Job\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Job\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\Solution\PL\obj\Debug\PL.Product.resources
+C:\Job\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Job\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\150229\Downloads\Solution\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.exe
+C:\Job\24\Solution\PL\obj\Debug\PL.xml
+C:\Job\24\Solution\PL\obj\Debug\PL.pdb
+C:\Job\24\Solution\PL\bin\Debug\PL.exe
+C:\Job\24\Solution\PL\bin\Debug\PL.pdb
+C:\Job\24\Solution\PL\bin\Debug\PL.xml
+C:\Job\24\Solution\PL\bin\Debug\BLL.dll
+C:\Job\24\Solution\PL\bin\Debug\TabStrip.dll
+C:\Job\24\Solution\PL\bin\Debug\Utility.dll
+C:\Job\24\Solution\PL\bin\Debug\DAL.dll
+C:\Job\24\Solution\PL\bin\Debug\BLL.pdb
+C:\Job\24\Solution\PL\bin\Debug\BLL.xml
+C:\Job\24\Solution\PL\bin\Debug\Utility.pdb
+C:\Job\24\Solution\PL\bin\Debug\Utility.xml
+C:\Job\24\Solution\PL\bin\Debug\DAL.pdb
+C:\Job\24\Solution\PL\bin\Debug\DAL.xml
+C:\Job\24\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\24\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.Product.resources
+C:\Job\24\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.exe
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.xml
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.pdb
+D:\Project\25\Solution\Solution\PL\bin\Debug\PL.exe
+D:\Project\25\Solution\Solution\PL\bin\Debug\PL.pdb
+D:\Project\25\Solution\Solution\PL\bin\Debug\PL.xml
+D:\Project\25\Solution\Solution\PL\bin\Debug\BLL.dll
+D:\Project\25\Solution\Solution\PL\bin\Debug\TabStrip.dll
+D:\Project\25\Solution\Solution\PL\bin\Debug\Utility.dll
+D:\Project\25\Solution\Solution\PL\bin\Debug\DAL.dll
+D:\Project\25\Solution\Solution\PL\bin\Debug\BLL.pdb
+D:\Project\25\Solution\Solution\PL\bin\Debug\BLL.xml
+D:\Project\25\Solution\Solution\PL\bin\Debug\Utility.pdb
+D:\Project\25\Solution\Solution\PL\bin\Debug\Utility.xml
+D:\Project\25\Solution\Solution\PL\bin\Debug\DAL.pdb
+D:\Project\25\Solution\Solution\PL\bin\Debug\DAL.xml
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Add_Product.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Bill_records.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frm_Customer.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frmSales_information.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Resources.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frm_Ways.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.PL_Load.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Marketing_report.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Number_customers.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Sales_item.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Sell.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Over_stock.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.Product.resources
+D:\Project\25\Solution\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.exe
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.xml
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.pdb
+C:\Job\25\Solution\Solution\PL\bin\Debug\PL.exe
+C:\Job\25\Solution\Solution\PL\bin\Debug\PL.pdb
+C:\Job\25\Solution\Solution\PL\bin\Debug\PL.xml
+C:\Job\25\Solution\Solution\PL\bin\Debug\BLL.dll
+C:\Job\25\Solution\Solution\PL\bin\Debug\TabStrip.dll
+C:\Job\25\Solution\Solution\PL\bin\Debug\Utility.dll
+C:\Job\25\Solution\Solution\PL\bin\Debug\DAL.dll
+C:\Job\25\Solution\Solution\PL\bin\Debug\BLL.pdb
+C:\Job\25\Solution\Solution\PL\bin\Debug\BLL.xml
+C:\Job\25\Solution\Solution\PL\bin\Debug\Utility.pdb
+C:\Job\25\Solution\Solution\PL\bin\Debug\Utility.xml
+C:\Job\25\Solution\Solution\PL\bin\Debug\DAL.pdb
+C:\Job\25\Solution\Solution\PL\bin\Debug\DAL.xml
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.Product.resources
+C:\Job\25\Solution\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\Project\28\Solution\PL\obj\Debug\PL.exe
+D:\Project\28\Solution\PL\obj\Debug\PL.xml
+D:\Project\28\Solution\PL\obj\Debug\PL.pdb
+D:\Project\28\Solution\PL\bin\Debug\PL.exe
+D:\Project\28\Solution\PL\bin\Debug\PL.pdb
+D:\Project\28\Solution\PL\bin\Debug\PL.xml
+D:\Project\28\Solution\PL\bin\Debug\BLL.dll
+D:\Project\28\Solution\PL\bin\Debug\TabStrip.dll
+D:\Project\28\Solution\PL\bin\Debug\Utility.dll
+D:\Project\28\Solution\PL\bin\Debug\DAL.dll
+D:\Project\28\Solution\PL\bin\Debug\BLL.pdb
+D:\Project\28\Solution\PL\bin\Debug\BLL.xml
+D:\Project\28\Solution\PL\bin\Debug\Utility.pdb
+D:\Project\28\Solution\PL\bin\Debug\Utility.xml
+D:\Project\28\Solution\PL\bin\Debug\DAL.pdb
+D:\Project\28\Solution\PL\bin\Debug\DAL.xml
+D:\Project\28\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+D:\Project\28\Solution\PL\obj\Debug\PL.Add_Product.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Bill_records.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frm_Customer.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frmSales_information.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Resources.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frm_Ways.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.PL_Load.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Marketing_report.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Number_customers.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Sales_item.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Sell.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Over_stock.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.Product.resources
+D:\Project\28\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\Project\28\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Job\31\Solution\PL\bin\Debug\PL.exe
+C:\Job\31\Solution\PL\bin\Debug\PL.pdb
+C:\Job\31\Solution\PL\bin\Debug\PL.xml
+C:\Job\31\Solution\PL\bin\Debug\BLL.dll
+C:\Job\31\Solution\PL\bin\Debug\TabStrip.dll
+C:\Job\31\Solution\PL\bin\Debug\Utility.dll
+C:\Job\31\Solution\PL\bin\Debug\DAL.dll
+C:\Job\31\Solution\PL\bin\Debug\BLL.pdb
+C:\Job\31\Solution\PL\bin\Debug\BLL.xml
+C:\Job\31\Solution\PL\bin\Debug\Utility.pdb
+C:\Job\31\Solution\PL\bin\Debug\Utility.xml
+C:\Job\31\Solution\PL\bin\Debug\DAL.pdb
+C:\Job\31\Solution\PL\bin\Debug\DAL.xml
+C:\Job\31\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\31\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Job\31\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.Product.resources
+C:\Job\31\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Job\31\Solution\PL\obj\Debug\PL.exe
+C:\Job\31\Solution\PL\obj\Debug\PL.xml
+C:\Job\31\Solution\PL\obj\Debug\PL.pdb
+C:\Job\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Job\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Job\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Job\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Job\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Job\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Job\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Job\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Job\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Job\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Job\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Job\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Job\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Job\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Job\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Job\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Job\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Job\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Job\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Sales_item.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Users\150229\Downloads\Demo\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\1Hz_NB\Downloads\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+D:\Share\Demo\Solution\PL\obj\Debug\PL.exe
+D:\Share\Demo\Solution\PL\obj\Debug\PL.xml
+D:\Share\Demo\Solution\PL\obj\Debug\PL.pdb
+D:\Share\Demo\Solution\PL\bin\Debug\PL.exe
+D:\Share\Demo\Solution\PL\bin\Debug\PL.pdb
+D:\Share\Demo\Solution\PL\bin\Debug\PL.xml
+D:\Share\Demo\Solution\PL\bin\Debug\BLL.dll
+D:\Share\Demo\Solution\PL\bin\Debug\TabStrip.dll
+D:\Share\Demo\Solution\PL\bin\Debug\Utility.dll
+D:\Share\Demo\Solution\PL\bin\Debug\DAL.dll
+D:\Share\Demo\Solution\PL\bin\Debug\BLL.pdb
+D:\Share\Demo\Solution\PL\bin\Debug\BLL.xml
+D:\Share\Demo\Solution\PL\bin\Debug\Utility.pdb
+D:\Share\Demo\Solution\PL\bin\Debug\Utility.xml
+D:\Share\Demo\Solution\PL\bin\Debug\DAL.pdb
+D:\Share\Demo\Solution\PL\bin\Debug\DAL.xml
+D:\Share\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.Product.resources
+D:\Share\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\Demo\Solution\PL\bin\Debug\PL.exe
+D:\Demo\Solution\PL\bin\Debug\PL.pdb
+D:\Demo\Solution\PL\bin\Debug\PL.xml
+D:\Demo\Solution\PL\bin\Debug\BLL.dll
+D:\Demo\Solution\PL\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Demo\Solution\PL\bin\Debug\TabStrip.dll
+D:\Demo\Solution\PL\bin\Debug\Utility.dll
+D:\Demo\Solution\PL\bin\Debug\DAL.dll
+D:\Demo\Solution\PL\bin\Debug\BLL.pdb
+D:\Demo\Solution\PL\bin\Debug\BLL.xml
+D:\Demo\Solution\PL\bin\Debug\Utility.pdb
+D:\Demo\Solution\PL\bin\Debug\Utility.xml
+D:\Demo\Solution\PL\bin\Debug\DAL.pdb
+D:\Demo\Solution\PL\bin\Debug\DAL.xml
+D:\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+D:\Demo\Solution\PL\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+D:\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+D:\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+D:\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+D:\Demo\Solution\PL\obj\Debug\PL.Product.resources
+D:\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\Demo\Solution\PL\obj\Debug\PL.exe
+D:\Demo\Solution\PL\obj\Debug\PL.xml
+D:\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\150229\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\Git\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+D:\Git\Solution\PL\obj\Debug\PL.exe
+D:\Git\Solution\PL\obj\Debug\PL.xml
+D:\Git\Solution\PL\obj\Debug\PL.pdb
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Users\170079\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\Compressed\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\BLL.dll
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\TabStrip.dll
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\Utility.dll
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\DAL.dll
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\BLL.pdb
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\BLL.xml
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\Utility.pdb
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\Utility.xml
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\DAL.pdb
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\bin\Debug\DAL.xml
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Resources.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Sell.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.Product.resources
+C:\Users\1Hz_NB\Downloads\Demo (1)\Demo\Solution\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\150229\Downloads\kanraya-master\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\170079\Downloads\Compressed\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\Arthit.S\Downloads\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.exe
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master (2)\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Users\1Hz_NB\Downloads\kanraya-master\PL\bin\Debug\DAL.xml
+D:\kanraya-master\PL\bin\Debug\PL.exe
+D:\kanraya-master\PL\bin\Debug\PL.pdb
+D:\kanraya-master\PL\bin\Debug\PL.xml
+D:\kanraya-master\PL\bin\Debug\BLL.dll
+D:\kanraya-master\PL\bin\Debug\TabStrip.dll
+D:\kanraya-master\PL\bin\Debug\Utility.dll
+D:\kanraya-master\PL\bin\Debug\DAL.dll
+D:\kanraya-master\PL\bin\Debug\BLL.pdb
+D:\kanraya-master\PL\bin\Debug\BLL.xml
+D:\kanraya-master\PL\bin\Debug\Utility.pdb
+D:\kanraya-master\PL\bin\Debug\Utility.xml
+D:\kanraya-master\PL\bin\Debug\DAL.pdb
+D:\kanraya-master\PL\bin\Debug\DAL.xml
+D:\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+D:\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+D:\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+D:\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+D:\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+D:\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+D:\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+D:\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+D:\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+D:\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+D:\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+D:\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+D:\kanraya-master\PL\obj\Debug\PL.Resources.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+D:\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+D:\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+D:\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+D:\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+D:\kanraya-master\PL\obj\Debug\PL.Sell.resources
+D:\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+D:\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+D:\kanraya-master\PL\obj\Debug\PL.Product.resources
+D:\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+D:\kanraya-master\PL\obj\Debug\PL.exe
+D:\kanraya-master\PL\obj\Debug\PL.xml
+D:\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.exe
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.xml
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\PL.exe
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\PL.xml
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Job\20180207\kanraya-master (1)\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.vbproj.ResolveComReference.cache
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.exe
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.xml
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.pdb
+C:\Job\20180207\kanraya-master\PL\bin\Debug\PL.exe
+C:\Job\20180207\kanraya-master\PL\bin\Debug\PL.pdb
+C:\Job\20180207\kanraya-master\PL\bin\Debug\PL.xml
+C:\Job\20180207\kanraya-master\PL\bin\Debug\BLL.dll
+C:\Job\20180207\kanraya-master\PL\bin\Debug\TabStrip.dll
+C:\Job\20180207\kanraya-master\PL\bin\Debug\Utility.dll
+C:\Job\20180207\kanraya-master\PL\bin\Debug\DAL.dll
+C:\Job\20180207\kanraya-master\PL\bin\Debug\BLL.pdb
+C:\Job\20180207\kanraya-master\PL\bin\Debug\BLL.xml
+C:\Job\20180207\kanraya-master\PL\bin\Debug\Utility.pdb
+C:\Job\20180207\kanraya-master\PL\bin\Debug\Utility.xml
+C:\Job\20180207\kanraya-master\PL\bin\Debug\DAL.pdb
+C:\Job\20180207\kanraya-master\PL\bin\Debug\DAL.xml
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.vbprojResolveAssemblyReference.cache
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Add_discount.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Add_payment.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Add_shipping.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Add_Product.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Bill_records.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frmCreate_bill.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_lesson.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Add_customer_segment.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frmAdd_Customer.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_Bank.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_Customer.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frmSales_information.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frmStore_statistic.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Resources.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_confirm.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_Ways.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.PL_Load.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Marketing_report.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Number_customers.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Sales_itemff.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Sell.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Over_stock.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_AddProduct.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.frm_Menu.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.Product.resources
+C:\Job\20180207\kanraya-master\PL\obj\Debug\PL.vbproj.GenerateResource.Cache
