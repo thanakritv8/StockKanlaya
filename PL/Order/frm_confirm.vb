@@ -194,29 +194,18 @@ Public Class frm_confirm
                 Bank = cbBank.Text
             End If
             Dim Str() As String = {tbName.Text, tbName.Text, tbAddress.Text, tbAddress.Text, tbTel.Text, tbZipCode.Text,
-                                   IdOrder, cbTransportPay.Text, Now.ToString("yyyy-MM-dd"), Bank, DGV.Rows(0).Cells("cMenu").Value}
-            Dim _r() As Integer = {4, 28, 6, 30, 2, 12, 15, 16, 29, 51, 33}
-            Dim _c() As Integer = {3, 2, 3, 2, 6, 6, 4, 4, 7, 5, 1}
-            Dim Arr(DGV.RowCount - 1, DGV.ColumnCount - 2) As String
-            Dim Move As Integer = 0
-            For j As Integer = 0 To DGV.RowCount - 1
-                For i As Integer = 1 To DGV.ColumnCount - 2
-                    If i = 2 Then
-                        Move += 1
-                    End If
-                    Arr(j, i - 1) = DGV.Rows(j).Cells(i + Move).Value.ToString
-                Next
-                Move = 0
-            Next
-
-
-            BLL_Extra.WriteExcel(Path, _r, _c, "Sheet1", Str, Arr, DGV.RowCount - 1, DGV.ColumnCount - 2, tbRebate.Text, tbTypePay.Text)
-            BLL_Extra.OpenExcel(Application.StartupPath & "\Doc\taxreal.xlsx")
+                                   IdOrder, cbTransportPay.Text, Now.ToString("yyyy-MM-dd"), Bank}
+            Dim _r() As Integer = {4, 28, 6, 30, 2, 12, 15, 16, 29, 51}
+            Dim _c() As Integer = {3, 2, 3, 2, 6, 6, 4, 4, 7, 5}
+            BLL_Extra.WriteExcel(Path, _r, _c, "Sheet1", Str, tbRebate.Text, tbTypePay.Text, DGV)
+            BLL_Extra.OpenExcel(Application.StartupPath & "\Doc\taxreal5.xlsx")
         Catch ex As Exception
-
+            For Each prog As Process In Process.GetProcesses
+                If prog.ProcessName.Contains("EXCEL") Then
+                    prog.Kill()
+                End If
+            Next
         End Try
-
-
     End Sub
 
     Private Sub DHerders()
@@ -231,7 +220,6 @@ Public Class frm_confirm
         DGV.Columns("cIdProduct").Width = 16
         DGV.Columns("cNameProduct").Width = 55
         DGV.Columns("cAmount").Width = 10
-        DGV.Columns("cUnit").Width = 9
         DGV.Columns("cPriceUnit").Width = 12
         DGV.Columns("cRebate").Width = 10
         DGV.Columns("cPrice").Width = 60

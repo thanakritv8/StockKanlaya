@@ -435,3 +435,19 @@ C:\Job\20180207\kanraya-master (1)\kanraya-master\BLL\obj\Debug\BLL.vbproj.Gener
 C:\Job\20180207\kanraya-master (1)\kanraya-master\BLL\obj\Debug\BLL.dll
 C:\Job\20180207\kanraya-master (1)\kanraya-master\BLL\obj\Debug\BLL.xml
 C:\Job\20180207\kanraya-master (1)\kanraya-master\BLL\obj\Debug\BLL.pdb
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\BLL.dll
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\BLL.pdb
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\BLL.xml
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\DAL.dll
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\Utility.dll
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\DAL.pdb
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\DAL.xml
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\Utility.pdb
+C:\Job\ProgramTest\Demo\BLL\bin\Debug\Utility.xml
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.vbproj.ResolveComReference.cache
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.Resources.resources
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.dll
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.xml
+C:\Job\ProgramTest\Demo\BLL\obj\Debug\BLL.pdb

@@ -1,8 +1,10 @@
 ﻿Imports Utility
 Imports System.IO
-Imports Microsoft.Office.Interop.Excel
+Imports Ex = Microsoft.Office.Interop.Excel
 Imports System.Text
 Imports System.Security.Cryptography
+Imports System.Windows.Forms
+Imports System.Drawing
 
 Public Class BLL_Extra : Inherits Globalvariable
 
@@ -32,11 +34,11 @@ Public Class BLL_Extra : Inherits Globalvariable
     End Sub
 
     Public Function ReadExcel(ByVal _Path As String, ByVal _row As Integer, ByVal _col As Integer, ByVal Sheet As String) As String
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
-        Dim r As Range = s.UsedRange
-        Dim array(,) As Object = r.Value(XlRangeValueDataType.xlRangeValueDefault)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
+        Dim r As Ex.Range = s.UsedRange
+        Dim array(,) As Object = r.Value(Microsoft.Office.Interop.Excel.XlRangeValueDataType.xlRangeValueDefault)
         w.Close()
         If array IsNot Nothing Then
             Return array(_row, _col)
@@ -45,10 +47,10 @@ Public Class BLL_Extra : Inherits Globalvariable
         End If
     End Function
 
-    Public Sub WriteExcel(ByVal _Path As String, ByVal _row() As Integer, ByVal _col() As Integer, ByVal Sheet As String, ByVal _data() As String, ByVal Arr(,) As String, ByVal r As Integer, ByVal c As Integer, ByVal Rebate As String, ByVal _Total As String)
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
+    Public Sub WriteExcel(ByVal _Path As String, ByVal _row() As Integer, ByVal _col() As Integer, ByVal Sheet As String, ByVal _data() As String, ByVal Rebate As String, ByVal _Total As String, ByVal DGV As DataGridView)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
         Dim _Bank As String = String.Empty
         For i As Integer = 0 To _row.Length - 1
             If i <> 9 Then
@@ -57,52 +59,67 @@ Public Class BLL_Extra : Inherits Globalvariable
                 _Bank = _data(i)
             End If
         Next
-        For i As Integer = 0 To r
-            For j As Integer = 0 To c
-                s.Cells(34 + i, j + 1).Value = Arr(i, j)
-            Next
-            s.Cells(34 + i, 7).Value = "=C" & 34 + i & "*E" & 34 + i & "-F" & 34 + i
+        Dim MenuOld As String = String.Empty
+        Dim _r As Integer = 33
+        For i As Integer = 0 To DGV.RowCount - 1
+            Dim Menu As String = DGV.Rows(i).Cells(0).Value.ToString
+            If MenuOld <> Menu Then
+                MenuOld = Menu
+                s.Cells(_r, 1).Value = Menu
+                's.Range("A" & _r).Style.Font.Color = Color.Green
+                s.Cells(_r, 1).Interior.Color = Color.Yellow
+                _r += 1
+            End If
+            s.Cells(_r, 1).Value = DGV.Rows(i).Cells(1).Value.ToString
+            s.Cells(_r, 2).Value = DGV.Rows(i).Cells(3).Value.ToString
+            s.Cells(_r, 3).Value = DGV.Rows(i).Cells(4).Value.ToString
+            s.Cells(_r, 4).Value = DGV.Rows(i).Cells(5).Value.ToString
+            s.Cells(_r, 5).Value = DGV.Rows(i).Cells(6).Value.ToString
+            s.Cells(_r, 6).Value = DGV.Rows(i).Cells(7).Value.ToString
+
+            s.Cells(_r, 7).Value = "=C" & _r & "*E" & _r & "-F" & _r
+            _r += 1
         Next
-        s.Cells(34 + r + 2, 2).Value = "ส่วนลดรวม"
-        s.Cells(34 + r + 2, 6).Value = Rebate '"=SUM(F34:F" & r + 34 & ")"
-        s.Cells(34 + r + 7, 2).Value = "(ราคานี้ได้รวมภาษีมูลค่าเพิ่มแล้ว) จำนวนเงินรวมทั้งเงิน"
-        s.Range(s.Cells(34 + r + 7, 1), s.Cells(34 + r + 7, 6)).Merge()
+        s.Cells(34 + DGV.RowCount + 2, 2).Value = "ส่วนลดรวม"
+        s.Cells(34 + DGV.RowCount + 2, 6).Value = Rebate '"=SUM(F34:F" & r + 34 & ")"
+        s.Cells(34 + DGV.RowCount + 7, 2).Value = "(ราคานี้ได้รวมภาษีมูลค่าเพิ่มแล้ว) จำนวนเงินรวมทั้งเงิน"
+        s.Range(s.Cells(34 + DGV.RowCount + 7, 1), s.Cells(34 + DGV.RowCount + 7, 6)).Merge()
 
-        s.Range("A" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("B" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("C" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("D" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("E" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("F" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("G" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeTop).Weight = 2
-        s.Range("A" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
-        s.Range("B" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
-        s.Range("C" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
-        s.Range("D" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
-        s.Range("E" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
-        s.Range("F" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
-        s.Range("G" & 34 + r + 7).Borders(XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("A" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("B" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("C" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("D" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("E" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("F" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("G" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeTop).Weight = 2
+        s.Range("A" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("B" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("C" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("D" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("E" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("F" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
+        s.Range("G" & 34 + DGV.RowCount + 7).Borders(Ex.XlBordersIndex.xlEdgeBottom).Weight = 2
 
-        s.Cells(34 + r + 7, 7).Value = _Total - Rebate '"=SUM(G34:G" & r + 2 + 34 & ") - " & Rebate
-        s.Cells(34 + r + 9, 2).Value = "จำนวนเงินรวมทั้งสิ้น  (ตัวอักษร)"
-        s.Cells(34 + r + 9, 4).Value = "=BAHTTEXT(G" & r + 7 + 34 & ")"
-        s.Range(s.Cells(34 + r + 9, 4), s.Cells(34 + r + 9, 7)).Merge()
+        s.Cells(34 + DGV.RowCount + 7, 7).Value = _Total - Rebate '"=SUM(G34:G" & r + 2 + 34 & ") - " & Rebate
+        s.Cells(34 + DGV.RowCount + 9, 2).Value = "จำนวนเงินรวมทั้งสิ้น  (ตัวอักษร)"
+        s.Cells(34 + DGV.RowCount + 9, 4).Value = "=BAHTTEXT(G" & DGV.RowCount + 7 + 34 & ")"
+        s.Range(s.Cells(34 + DGV.RowCount + 9, 4), s.Cells(34 + DGV.RowCount + 9, 7)).Merge()
         For i As Integer = 4 To 7
-            s.Cells(34 + r + 9, i).BORDERS.Weight = 2
+            s.Cells(34 + DGV.RowCount + 9, i).BORDERS.Weight = 2
         Next
-        s.Cells(34 + r + 11, 1).Value = "ผู้รับเงิน..............................................."
-        s.Cells(34 + r + 11, 3).Value = "ผู้ชำระเงิน.............................................."
-        s.Cells(34 + r + 12, 1).Value = "การชำระเงิน"
-        s.Cells(34 + r + 12, 2).Value = _Bank
+        s.Cells(34 + DGV.RowCount + 11, 1).Value = "ผู้รับเงิน..............................................."
+        s.Cells(34 + DGV.RowCount + 11, 3).Value = "ผู้ชำระเงิน.............................................."
+        s.Cells(34 + DGV.RowCount + 12, 1).Value = "การชำระเงิน"
+        s.Cells(34 + DGV.RowCount + 12, 2).Value = _Bank
         w.Save()
         w.Close()
         excel.Quit()
     End Sub
 
     Public Sub WriteStock(ByVal _Path As String, ByVal Sheet As String, ByVal Arr(,) As String, ByVal _r As Integer, ByVal _c As Integer)
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
         For i As Integer = 0 To _r
             For j As Integer = 0 To _c
                 s.Cells(i + 2, j + 1).Value = Arr(i, j)
@@ -114,9 +131,9 @@ Public Class BLL_Extra : Inherits Globalvariable
     End Sub
 
     Public Sub Write_ExPaid(ByVal _Path As String, ByVal Sheet As String, ByVal Arr(,) As String, ByVal _r As Integer, ByVal _c As Integer)
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
         For i As Integer = 0 To _r
             For j As Integer = 0 To _c
                 s.Cells(i + 2, j + 1).Value = Arr(i, j)
@@ -129,9 +146,9 @@ Public Class BLL_Extra : Inherits Globalvariable
 
 
     Public Sub WriteEx_Customer(ByVal _Path As String, ByVal Sheet As String, ByVal Arr(,) As String, ByVal _r As Integer, ByVal _c As Integer)
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
         For i As Integer = 0 To _r
             For j As Integer = 0 To _c
                 s.Cells(i + 2, j + 1).Value = Arr(i, j)
@@ -144,9 +161,9 @@ Public Class BLL_Extra : Inherits Globalvariable
 
 
     Public Sub WriteEx_Order(ByVal _Path As String, ByVal Sheet As String, ByVal Arr(,) As String, ByVal _r As Integer, ByVal _c As Integer)
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
         For i As Integer = 0 To _r
             For j As Integer = 0 To _c
                 s.Cells(i + 2, j + 1).Value = Arr(i, j)
@@ -158,9 +175,9 @@ Public Class BLL_Extra : Inherits Globalvariable
     End Sub
 
     Public Sub Write_ExProduct(ByVal _Path As String, ByVal Sheet As String, ByVal Arr(,) As String, ByVal _r As Integer, ByVal _c As Integer)
-        Dim excel As Application = New Application
-        Dim w As Workbook = excel.Workbooks.Open(_Path)
-        Dim s As Worksheet = w.Sheets(Sheet)
+        Dim excel As Ex.Application = New Ex.Application
+        Dim w As Ex.Workbook = excel.Workbooks.Open(_Path)
+        Dim s As Ex.Worksheet = w.Sheets(Sheet)
         For i As Integer = 0 To _r
             For j As Integer = 0 To _c
                 s.Cells(i + 2, j + 1).Value = Arr(i, j)

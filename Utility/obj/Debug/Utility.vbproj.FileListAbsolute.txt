@@ -154,3 +154,11 @@ D:\kanraya-master\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
 D:\kanraya-master\Utility\obj\Debug\Utility.dll
 D:\kanraya-master\Utility\obj\Debug\Utility.xml
 D:\kanraya-master\Utility\obj\Debug\Utility.pdb
+C:\Job\ProgramTest\Demo\Utility\bin\Debug\Utility.dll
+C:\Job\ProgramTest\Demo\Utility\bin\Debug\Utility.pdb
+C:\Job\ProgramTest\Demo\Utility\bin\Debug\Utility.xml
+C:\Job\ProgramTest\Demo\Utility\obj\Debug\Utility.Resources.resources
+C:\Job\ProgramTest\Demo\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Job\ProgramTest\Demo\Utility\obj\Debug\Utility.dll
+C:\Job\ProgramTest\Demo\Utility\obj\Debug\Utility.xml
+C:\Job\ProgramTest\Demo\Utility\obj\Debug\Utility.pdb
