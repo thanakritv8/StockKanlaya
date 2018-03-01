@@ -30,6 +30,17 @@ Public Class BLL_Dashboard : Inherits Globalvariable
         End If
     End Function
 
+    Public Function SearchStatusProductDate(ByVal Status As String, ByVal IdProduct As String, ByVal DateStart As Date, ByVal DateEnd As Date) As Integer
+        Dim DB As DB = New DB
+        Dim _SQL As String = "SELECT SUM(Amount) as num FROM ListOrder WHERE IdOrder IN (SELECT IdOrder FROM DataOrder WHERE Status = '" & Status & "' AND CreateDate BETWEEN '" & Format(DateStart, "yyyy-MM-dd 00:00:00") & "' AND '" & Format(DateEnd, "yyyy-MM-dd 23:59:59") & "') AND IdProduct = '" & IdProduct & "'"
+        Dim Dt As DataTable = DB.SelectSQL(_SQL)
+        If Dt.Rows.Count > 0 Then
+            Return IIf(Dt.Rows(0).Item("num").ToString = String.Empty, 0, Dt.Rows(0).Item("num").ToString)
+        Else
+            Return 0
+        End If
+    End Function
+
     Public Function SearchSell(ByVal DateSell As DateTime) As Integer
         Dim DB As DB = New DB
         Dim _SQL As String = "SELECT SUM(Price) AS Sum FROM DataOrder WHERE DAY(CreateDate) = " & DateSell.Day & " AND MONTH(CreateDate) = " & DateSell.Month & " AND YEAR(CreateDate) = " & DateSell.Year & " AND Status = 'จ่ายแล้ว'"

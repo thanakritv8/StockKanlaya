@@ -242,7 +242,7 @@ Public Class Add_Product
 
     Private Sub btAdd_Click(sender As Object, e As EventArgs) Handles btAdd.Click
         Try
-            If cbMenu.Text <> String.Empty Then
+            If cbMenu.Text <> String.Empty And cbMenu.Text <> "เลือก" Then
                 Dim BLL_Bill As BLL_Create_Bill = New BLL_Create_Bill
                 Dim Dt As DataTable = New DataTable
                 Dt.Columns.Add("NameMenu")

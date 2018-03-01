@@ -22,8 +22,8 @@ Partial Class frmCreate_bill
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.FileSystemWatcher1 = New System.IO.FileSystemWatcher()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
@@ -97,7 +97,6 @@ Partial Class frmCreate_bill
         Me.Label26 = New System.Windows.Forms.Label()
         Me.btn_Addproduct = New System.Windows.Forms.Button()
         Me.DGV = New System.Windows.Forms.DataGridView()
-        Me.btn_savebill = New System.Windows.Forms.Button()
         Me.cMenu = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.cNameCategory = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.cIdProduct = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -106,6 +105,7 @@ Partial Class frmCreate_bill
         Me.cPrice = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.cFree = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.cDel = New System.Windows.Forms.DataGridViewButtonColumn()
+        Me.btn_savebill = New System.Windows.Forms.Button()
         CType(Me.FileSystemWatcher1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage3.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -523,7 +523,7 @@ Partial Class frmCreate_bill
         'GroupBox4
         '
         Me.GroupBox4.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox4.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.GroupBox4.Controls.Add(Me.cbGroup)
         Me.GroupBox4.Controls.Add(Me.Label18)
@@ -651,10 +651,12 @@ Partial Class frmCreate_bill
         '
         Me.cbCountry.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
         Me.cbCountry.FormattingEnabled = True
+        Me.cbCountry.Items.AddRange(New Object() {"ไทย", "อังกฤษ", "จีน", "ญี่ปุ่น", "เกาหลี"})
         Me.cbCountry.Location = New System.Drawing.Point(17, 287)
         Me.cbCountry.Name = "cbCountry"
         Me.cbCountry.Size = New System.Drawing.Size(240, 28)
         Me.cbCountry.TabIndex = 7
+        Me.cbCountry.Text = "ไทย"
         '
         'Label22
         '
@@ -679,7 +681,7 @@ Partial Class frmCreate_bill
         'Panel3
         '
         Me.Panel3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Panel3.BackColor = System.Drawing.Color.Silver
         Me.Panel3.Controls.Add(Me.lbLesson)
         Me.Panel3.Controls.Add(Me.Label13)
@@ -886,9 +888,9 @@ Partial Class frmCreate_bill
         '
         Me.DGV.AllowUserToAddRows = False
         Me.DGV.AllowUserToDeleteRows = False
-        DataGridViewCellStyle1.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle1.ForeColor = System.Drawing.Color.Black
-        Me.DGV.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle3.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle3.ForeColor = System.Drawing.Color.Black
+        Me.DGV.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle3
         Me.DGV.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
         Me.DGV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DGV.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.cMenu, Me.cNameCategory, Me.cIdProduct, Me.cNameProduct, Me.cAmount, Me.cPrice, Me.cFree, Me.cDel})
@@ -897,22 +899,6 @@ Partial Class frmCreate_bill
         Me.DGV.RowHeadersVisible = False
         Me.DGV.Size = New System.Drawing.Size(683, 222)
         Me.DGV.TabIndex = 2
-        '
-        'btn_savebill
-        '
-        Me.btn_savebill.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.btn_savebill.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_savebill.Font = New System.Drawing.Font("Segoe UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_savebill.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-        Me.btn_savebill.Image = Global.PL.My.Resources.Resources.P_8
-        Me.btn_savebill.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_savebill.Location = New System.Drawing.Point(997, 420)
-        Me.btn_savebill.Name = "btn_savebill"
-        Me.btn_savebill.Size = New System.Drawing.Size(144, 57)
-        Me.btn_savebill.TabIndex = 12
-        Me.btn_savebill.Text = "บันทึกบิล"
-        Me.btn_savebill.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_savebill.UseVisualStyleBackColor = False
         '
         'cMenu
         '
@@ -941,9 +927,9 @@ Partial Class frmCreate_bill
         '
         'cPrice
         '
-        DataGridViewCellStyle2.Format = "#,##0.00"
-        DataGridViewCellStyle2.NullValue = Nothing
-        Me.cPrice.DefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle4.Format = "#,##0.00"
+        DataGridViewCellStyle4.NullValue = Nothing
+        Me.cPrice.DefaultCellStyle = DataGridViewCellStyle4
         Me.cPrice.HeaderText = "ราคาขาย"
         Me.cPrice.Name = "cPrice"
         '
@@ -956,6 +942,22 @@ Partial Class frmCreate_bill
         '
         Me.cDel.HeaderText = "เมนูลบ"
         Me.cDel.Name = "cDel"
+        '
+        'btn_savebill
+        '
+        Me.btn_savebill.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.btn_savebill.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_savebill.Font = New System.Drawing.Font("Segoe UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_savebill.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.btn_savebill.Image = Global.PL.My.Resources.Resources.P_8
+        Me.btn_savebill.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_savebill.Location = New System.Drawing.Point(997, 420)
+        Me.btn_savebill.Name = "btn_savebill"
+        Me.btn_savebill.Size = New System.Drawing.Size(144, 57)
+        Me.btn_savebill.TabIndex = 12
+        Me.btn_savebill.Text = "บันทึกบิล"
+        Me.btn_savebill.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_savebill.UseVisualStyleBackColor = False
         '
         'frmCreate_bill
         '

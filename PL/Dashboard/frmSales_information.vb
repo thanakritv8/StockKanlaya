@@ -63,7 +63,7 @@ Public Class frmSales_information
                     FullMain &= "0" & vbNewLine
                     FullMainName &= "0" & vbNewLine
                     FullIdCategory &= "0" & vbNewLine
-                    Dim NumOrder As String = BLL_Dashboard.SearchStatusProduct("จ่ายแล้ว", DtProduct.Rows(j).Item("IdProduct"))
+                    Dim NumOrder As String = BLL_Dashboard.SearchStatusProductDate("จ่ายแล้ว", DtProduct.Rows(j).Item("IdProduct"), DTP1.Value, DTP2.Value)
                     DGV.Rows.Add(DtProduct.Rows(j).Item("IdProduct"), DtProduct.Rows(j).Item("NameProduct"), DtProduct.Rows(j).Item("Stock"), NumOrder)
                 Next
             Next

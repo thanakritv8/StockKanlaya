@@ -5,6 +5,7 @@ Imports System.Text
 Imports System.Security.Cryptography
 Imports System.Windows.Forms
 Imports System.Drawing
+Imports DAL
 
 Public Class BLL_Extra : Inherits Globalvariable
 
@@ -267,5 +268,11 @@ Public Class BLL_Extra : Inherits Globalvariable
             Return False
         End If
     End Function
+
+    Public Sub InsertLog(ByVal _Msg As String)
+        Dim _SQL As String = "INSERT INTO LogErr (Remark, CreateDate) VALUES ('" & _Msg & "', GETDATE())"
+        Dim DB As DB = New DB
+        DB.ExecuteSQL(_SQL)
+    End Sub
 
 End Class

@@ -3,18 +3,34 @@ Imports Utility
 Public Class BLL_Customer : Inherits Globalvariable
     Public Function InsertCustomer(ByVal Name As String, ByVal Address As String, ByVal Transpot As String, ByVal Tel As String,
                                    ByVal Country As String, ByVal ZipCode As String, ByVal Email As String, ByVal PathPicture As String, ByVal GroupCus As String) As Boolean
-        Dim DB As DB = New DB
-        Dim _SQL As String = "INSERT INTO Customer (Name, Address, Transpot, Tel, Country, ZipCode, Email, PathPicture, GroupCus) VALUES "
-        _SQL &= "('" & Name & "', '" & Address & "', '" & Transpot & "', '" & Tel & "', '" & Country & "', '" & ZipCode & "', '" & Email & "', '" & PathPicture & "', '" & GroupCus & "')"
-        Return DB.ExecuteSQL(_SQL)
+        Dim _SQL As String = String.Empty
+        Try
+            Dim DB As DB = New DB
+            _SQL = "INSERT INTO Customer (Name, Address, Transpot, Tel, Country, ZipCode, Email, PathPicture, GroupCus) VALUES "
+            _SQL &= "('" & Name & "', '" & Address & "', '" & Transpot & "', '" & Tel & "', '" & Country & "', '" & ZipCode & "', '" & Email & "', '" & PathPicture & "', '" & GroupCus & "')"
+            Return DB.ExecuteSQL(_SQL)
+        Catch ex As Exception
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function InsertCustomer : SQL = " & _SQL & " : " & ex.Message)
+            Return False
+        End Try
+
     End Function
 
     Public Function UpdateCustomer(ByVal Name As String, ByVal Address As String, ByVal Transpot As String, ByVal Tel As String,
                                   ByVal Country As String, ByVal ZipCode As String, ByVal Email As String, ByVal PathPicture As String, ByVal GroupCus As String) As Boolean
-        Dim DB As DB = New DB
-        Dim _SQL As String = "UPDATE Customer SET Name = '" & Name & "', Address = '" & Address & "', Transpot = '" & Transpot & "', Tel = '" & Tel & "',"
-        _SQL &= " Country = '" & Country & "', ZipCode = '" & ZipCode & "', Email = '" & Email & "', PathPicture = '" & PathPicture & "', GroupCus = '" & GroupCus & "' WHERE IdCustomer = " & IdCus
-        Return DB.ExecuteSQL(_SQL)
+        Dim _SQL As String = String.Empty
+        Try
+            Dim DB As DB = New DB
+            _SQL = "UPDATE Customer SET Name = '" & Name & "', Address = '" & Address & "', Transpot = '" & Transpot & "', Tel = '" & Tel & "',"
+            _SQL &= " Country = '" & Country & "', ZipCode = '" & ZipCode & "', Email = '" & Email & "', PathPicture = '" & PathPicture & "', GroupCus = '" & GroupCus & "' WHERE IdCustomer = " & IdCus
+            Return DB.ExecuteSQL(_SQL)
+        Catch ex As Exception
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function UpdateCustomer : SQL = " & _SQL & " : " & ex.Message)
+            Return False
+        End Try
+
     End Function
 
     Public Function DeleteCustomer() As Boolean

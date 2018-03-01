@@ -61,10 +61,15 @@ Public Class frmCreate_bill
                     End If
                 End If
             Else
-                MsgBox("กรุณาเช็คข้อมูลก่อนบันทึก", MsgBoxStyle.Information, "Information")
+                If StatusOrder Then
+                    MsgBox("กรุณาเช็คข้อมูลก่อนบันทึก", MsgBoxStyle.Information, "Information")
+                Else
+                    MsgBox("กรุณาเช็คการกรอกข้อมูลลูกค้า", MsgBoxStyle.Information, "Information")
+                End If
             End If
         Catch ex As Exception
-
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function btn_savebill_Click :" & ex.Message)
         End Try
 
     End Sub
@@ -76,7 +81,8 @@ Public Class frmCreate_bill
                 frmCreate_bill_Load(sender, e)
             End If
         Catch ex As Exception
-
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function btn_Addproduct_Click :" & ex.Message)
         End Try
 
     End Sub
@@ -176,26 +182,13 @@ Public Class frmCreate_bill
             CHeaders()
             DSize()
         Catch ex As Exception
-
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function frmCreate_bill_Load :" & ex.Message)
         End Try
 
     End Sub
 
-    Private Sub tbRebate_KeyPress(sender As Object, e As KeyPressEventArgs) Handles tbRebate.KeyPress
-        'Try
-        '    If Asc(e.KeyChar) = 13 Then
-        '        If cbRebate.Text.Contains("%") Then
-        '            tbRebate.Text = (tbRebate.Text * tbTypePay.Text) / 100
-        '        End If
-        '        tbTotal.Text = tbTypePay.Text + tbTransportPay.Text - tbRebate.Text
-        '    End If
-        'Catch ex As Exception
-
-        'End Try
-
-    End Sub
-
-    Private Sub cbName_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbName.SelectedIndexChanged
+    Private Sub cbName_SelectedIndexChanged(ByVal sender As Object, ByVal e As EventArgs) Handles cbName.SelectedIndexChanged
         Try
             Dim BLL_Customer As BLL_Customer = New BLL_Customer
             Dim DtCus As DataTable = BLL_Customer.SelectCustomer(cbName.Text)
@@ -214,7 +207,8 @@ Public Class frmCreate_bill
                 cbGroup.Enabled = True
             End If
         Catch ex As Exception
-
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function cbName_SelectedIndexChanged :" & ex.Message)
         End Try
 
     End Sub
@@ -228,7 +222,7 @@ Public Class frmCreate_bill
         cbName.Text = String.Empty
         tbTel.Text = String.Empty
         tbAddress.Text = String.Empty
-        cbCountry.Text = String.Empty
+        cbCountry.Text = "ไทย"
         tbZipCode.Text = String.Empty
         tbEmail.Text = String.Empty
         tbTypePay.Text = 0
@@ -255,7 +249,8 @@ Public Class frmCreate_bill
                 lbLesson.Visible = False
             End If
         Catch ex As Exception
-
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function cbTypePay_SelectedIndexChanged :" & ex.Message)
         End Try
 
     End Sub
@@ -276,10 +271,9 @@ Public Class frmCreate_bill
                 End If
             End If
         Catch ex As Exception
-
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function tbTransportPay_TextChanged :" & ex.Message)
         End Try
-
-
     End Sub
 
     Private Sub tbRebate_TextChanged(sender As Object, e As EventArgs) Handles tbRebate.TextChanged
@@ -289,10 +283,6 @@ Public Class frmCreate_bill
                 If Not BLL_Extra.CheckNum(tbRebate.Text) Then
                     MsgBox("กรุณาใส่ตัวเลข", MsgBoxStyle.Exclamation, "Exclamation")
                 Else
-
-                    'If cbRebate.Text.Contains("%") Then
-                    '    tbRebate.Text = (tbRebate.Text * tbTypePay.Text) / 100
-                    'End If
 
                     If cbRebate.Text.Contains("%") Then
                         tbTotal.Text = CInt(tbTypePay.Text) + CInt(tbTransportPay.Text) - (CInt(tbRebate.Text) * CInt(tbTypePay.Text) / 100)

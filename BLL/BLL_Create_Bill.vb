@@ -72,32 +72,55 @@ Public Class BLL_Create_Bill : Inherits Globalvariable
     Public Function InsertOrder(ByVal IdOrder As String, ByVal Status As String, ByVal TypePay As String, ByVal TransportPay As Double, _
                                 ByVal StatusTransport As String, ByVal Rebate As Double, ByVal Price As Double, ByVal Transport As String, ByVal Country As String, _
                                 ByVal ZipCode As String, ByVal IdCustomer As Integer) As Boolean
-        Dim DB As DB = New DB
-        Dim _SQL As String = "INSERT INTO DataOrder (IdOrder, Status, TypePay, TransportPay, StatusTransport, Rebate, Price, Transport, Country, ZipCode, CreateDate, IdCustomer) "
-        _SQL &= "VALUES ('" & IdOrder & "', '" & Status & "', '" & TypePay & "', " & TransportPay & ", '" & StatusTransport & "', " & Rebate & ", " & Price & ", '" & Transport & "', '" & Country & "', '" & ZipCode & "', GETDATE(), " & IdCustomer & ")"
-        Return DB.ExecuteSQL(_SQL)
+        Dim _SQL As String = String.Empty
+        Try
+            Dim DB As DB = New DB
+            _SQL = "INSERT INTO DataOrder (IdOrder, Status, TypePay, TransportPay, StatusTransport, Rebate, Price, Transport, Country, ZipCode, CreateDate, IdCustomer) "
+            _SQL &= "VALUES ('" & IdOrder & "', '" & Status & "', '" & TypePay & "', " & TransportPay & ", '" & StatusTransport & "', " & Rebate & ", " & Price & ", '" & Transport & "', '" & Country & "', '" & ZipCode & "', GETDATE(), " & IdCustomer & ")"
+            Return DB.ExecuteSQL(_SQL)
+        Catch ex As Exception
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function InsertOrder : SQL = " & _SQL & " : " & ex.Message)
+            Return False
+        End Try
+
     End Function
 
     Public Function InsertListOrder(ByVal IdOrder As String, ByVal IdProduct As String, ByVal Amount As Integer, ByVal Price As Double, ByVal Menu As String, ByVal Free As String) As Boolean
-        Dim DB As DB = New DB
-        Dim _SQL As String = "INSERT INTO ListOrder (IdOrder, IdProduct, Amount, Price, NameMenu, StatusFree) VALUES ('" & IdOrder & "', '" & IdProduct & "', " & Amount & ", " & Price & ", '" & Menu & "', '" & Free & "')"
-        Return DB.ExecuteSQL(_SQL)
+        Dim _SQL As String = String.Empty
+        Try
+            Dim DB As DB = New DB
+            _SQL = "INSERT INTO ListOrder (IdOrder, IdProduct, Amount, Price, NameMenu, StatusFree) VALUES ('" & IdOrder & "', '" & IdProduct & "', " & Amount & ", " & Price & ", '" & Menu & "', '" & Free & "')"
+            Return DB.ExecuteSQL(_SQL)
+        Catch ex As Exception
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function InsertListOrder : SQL = " & _SQL & " : " & ex.Message)
+            Return False
+        End Try
     End Function
 
     Public Function InsertLesson(ByVal IdOrder As String, ByVal DGVLesson As DataGridView) As Boolean
-        Dim DB As DB = New DB
         Dim _SQL As String = String.Empty
-        Dim Status As Boolean = True
-        For i As Integer = 0 To DGVLesson.Rows.Count - 1
-            With DGVLesson.Rows(i)
-                _SQL = "INSERT INTO Lesson (Lesson, LessonDate, LessonPay, IdOrder) VALUES ('" & .Cells("cLesson").Value & "', '" & .Cells("cDateLesson").Value & "', '" & .Cells("cPrice").Value & "', '" & IdOrder & "')"
-                If DB.ExecuteSQL(_SQL) = False Then
-                    Status = False
-                    Exit For
-                End If
-            End With
-        Next
-        Return Status
+        Try
+            Dim DB As DB = New DB
+
+            Dim Status As Boolean = True
+            For i As Integer = 0 To DGVLesson.Rows.Count - 1
+                With DGVLesson.Rows(i)
+                    _SQL = "INSERT INTO Lesson (Lesson, LessonDate, LessonPay, IdOrder) VALUES ('" & .Cells("cLesson").Value & "', '" & .Cells("cDateLesson").Value & "', '" & .Cells("cPrice").Value & "', '" & IdOrder & "')"
+                    If DB.ExecuteSQL(_SQL) = False Then
+                        Status = False
+                        Exit For
+                    End If
+                End With
+            Next
+            Return Status
+        Catch ex As Exception
+            Dim BLL_Err As BLL_Extra = New BLL_Extra
+            BLL_Err.InsertLog("Function InsertLesson : SQL = " & _SQL & " : " & ex.Message)
+            Return False
+        End Try
+
     End Function
 
     Public Function GetMenu() As DataTable
