@@ -198,7 +198,7 @@ Public Class frm_confirm
             Dim _r() As Integer = {4, 28, 6, 30, 2, 12, 15, 16, 29, 51}
             Dim _c() As Integer = {3, 2, 3, 2, 6, 6, 4, 4, 7, 5}
             BLL_Extra.WriteExcel(Path, _r, _c, "Sheet1", Str, tbRebate.Text, tbTypePay.Text, DGV)
-            BLL_Extra.OpenExcel(Application.StartupPath & "\Doc\taxreal5.xlsx")
+            BLL_Extra.OpenExcel(Application.StartupPath & "\Doc\taxreal.xlsx")
         Catch ex As Exception
             For Each prog As Process In Process.GetProcesses
                 If prog.ProcessName.Contains("EXCEL") Then
